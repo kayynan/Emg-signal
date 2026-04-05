@@ -1,0 +1,7 @@
+{
+  "name": "Remix: EMG Signal Analyzer2",
+  "description": "Professional real-time EMG signal visualization and analysis tool with RMS envelope and activation detection.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}

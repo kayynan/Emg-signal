@@ -1,0 +1,21 @@
+{
+  "name": "EMG Signal Analyzer",
+  "short_name": "EMG Analyzer",
+  "description": "Real-time Electromyography (EMG) signal analysis and visualization.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "https://picsum.photos/seed/emg-icon/192/192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://picsum.photos/seed/emg-icon/512/512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
